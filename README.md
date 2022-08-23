@@ -1,2 +1,2 @@
 # Projects
-My first project where i will store my things
+My first repository where I will store my things.

@@ -1,8 +1,3 @@
-REM Info and source: https://github.com/hak5darren/USB-Rubber-Ducky/wiki/Payload-Netcat-Reverse-Shell
-REM Title: Netcat Reverse Shell
-REM Author: Kanishk Singh
-REM Version: 1
-
 REM Change the following details:
 REM    [NETCAT_DOWNLOAD_LINK]: Your Netcat download link.
 REM    [PORT]: The port on the target machine you want netcat to listen on.
